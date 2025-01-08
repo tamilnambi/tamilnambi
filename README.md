@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a **Flutter Developer** with over 1 year of ex
 
 ## 🚀 Notable Projects
 
-### [Real Estate App](Under closed testing in Play Store)
+### [Real Estate App](https://play.google.com/store/apps/details?id=com.promoters.arhousing)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Razorpay](https://img.shields.io/badge/Razorpay-002970?style=flat-square&logo=razorpay&logoColor=white)
